@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NikitaShohat
-- 👀 I’m interested in Blockchain developmnet
+- 👀 I’m interested in Data
 - 🌱 I’m currently learning Python
-- 📫 How to reach me LInkedIn "Nikita Shohat"
+- 📫 How to reach me LinkedIn "Nikita Shohat"
 
 <!---
 NikitaShohat/NikitaShohat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
