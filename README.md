@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NikitaShohat
-- 👀 I’m interested in Data
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @NikitaShohat 
+- 👀 I’m interested in Blockchain Development
+- 🌱 I’m currently learning Solidity
 - 📫 How to reach me LinkedIn "Nikita Shohat"
 
 <!---
