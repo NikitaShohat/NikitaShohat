@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikitaShohat 
-- 👀 I’m interested in Blockchain Development
-- 🌱 I’m currently learning Solidity
+- 👀 I’m interested in Fintech and iGaming
+- 🌱 I’m currently learning to create products
 - 📫 How to reach me LinkedIn "Nikita Shohat"
 
 <!---
